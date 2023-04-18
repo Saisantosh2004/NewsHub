@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NewsMoney/static/css/main.255eae0b.css",
+    "main.js": "/NewsMoney/static/js/main.965748dd.js",
+    "static/js/787.4c026eef.chunk.js": "/NewsMoney/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/NewsMoney/static/media/loading.170c59564ee6d3b7fa14.gif",
+    "index.html": "/NewsMoney/index.html",
+    "main.255eae0b.css.map": "/NewsMoney/static/css/main.255eae0b.css.map",
+    "main.965748dd.js.map": "/NewsMoney/static/js/main.965748dd.js.map",
+    "787.4c026eef.chunk.js.map": "/NewsMoney/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.255eae0b.css",
+    "static/js/main.965748dd.js"
+  ]
+}
